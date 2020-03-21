@@ -14,19 +14,19 @@ Audiences are expected to grab a comprehensive view of how music tastes varies a
 
 1) An overview of Spotify usage and popular song tracks around the world. This is an introductory page which gives the audience a comprehensive view that they are going to dig out more with such a music application and dive into the world of music.
 
-![Dashboard1](/Users/geyuanyuan1/Documents/GitHub/Spotify-User-Preference-Exploration/Dashboard1.png)
+![Dashboard1](/Dashboard1.png)
 
 2) An interactive dashboard that displays the top 25 songs and artists in text long the quarters from 2017 to 2019. The animation will make the presenting of the most popular songs and artists much more fascinating. On the right is a stream graph showing the preferred artists and music genre in 2018 all year along.
 
-![Dashboard2](/Users/geyuanyuan1/Documents/GitHub/Spotify-User-Preference-Exploration/Dashboard2.png)
+![Dashboard2](/Dashboard2.png)
 
 3) Two radar charts showing the characteristics of popular songs and the songs of popular artists. This dashboard will introduce these concepts which defines the music people are listening to every day but never notice, also, it might be inspirational for some artists!
 
-![Dashboard3](/Users/geyuanyuan1/Documents/GitHub/Spotify-User-Preference-Exploration/Dashboard3.png)
+![Dashboard3](/Dashboard3.png)
 
 4) Two interesting discovery about the seasonality of people's listening to music and people's tastes.
 
-![Dashboard3](/Users/geyuanyuan1/Documents/GitHub/Spotify-User-Preference-Exploration/Dashboard3.png)
+![Dashboard4](/Dashboard4.png)
 
 
 
