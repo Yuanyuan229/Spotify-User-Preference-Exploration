@@ -2,6 +2,8 @@
 
 A visualization using [Spotify daily charts](https://spotifycharts.com/regional) data.
 
+Go to the workbook on Tableau Public [Spotify Daily Charts Visualization](https://public.tableau.com/profile/yuanyuan5764#!/vizhome/SpotifyViz_YuanyuanGe/Whatsbehindyourearphone?publish=yes)
+
 ## Intro
 
 This visualization is mainly focused on presenting the discovery about people's music taste through the exploration of data got from Spotify. It’s expected that after looking into this visualization, the audience finds it interesting and know more about what the others around the world are listening. Practically, it might make people more interested in data analysis and Spotify.
